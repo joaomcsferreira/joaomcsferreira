@@ -1,6 +1,8 @@
-<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem">
+<div align="center">
 
 <img alt="Hi, I'm João Marcos" src="./assets/cover.png" />
+
+&nbsp;
 
 <span>
 
@@ -14,10 +16,9 @@
 
 <h2>Github stats</h2>
 
-<div style="display: flex; gap: 0.25rem; height: 200px; flex-wrap: wrap">
-  <img style="height: 100%" src="https://github-readme-stats.vercel.app/api?username=joaomcsferreira&show_icons=true&theme=tokyonight&count_private=true"/>
-
-  <img style="height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomcsferreira&layout=compact&theme=tokyonight">
+<div>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=joaomcsferreira&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomcsferreira&layout=compact&theme=tokyonight">
 </div>
 
 </div>
